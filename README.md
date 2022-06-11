@@ -1,10 +1,10 @@
 # 👋 Hi, I’m Tejasvi Sadasivuni (@tejasvigit)
 I have completed
-Courses: Python Programming, Statistics, Data Analysis & Visualization, Machine Learning, SQL & Analytics
+# Courses: Python Programming, Statistics, Data Analysis & Visualization, Machine Learning, SQL & Analytics
 
-Highlights: 600+ hours of coursework, 10 coding assignments, 3 projects (Web scraping, EDA, Machine Learning)
+# Highlights: 600+ hours of coursework, 10 coding assignments, 3 projects (Web scraping, EDA, Machine Learning)
 
-My Projects
+# My Projects
 
 ## Exploratory Data Analysis of 2+ Million Crime Dataset : [Link](https://jovian.ai/tejasvi-sadasivuni/eda-project-tejasvi-sadasivuni#C60)
 
@@ -21,6 +21,8 @@ My Projects
 ## Web scraping stock prices on Yahoo stock market
 * Utilized Beautifulsoup package of python to draw relevant data from HTML code
 * Scraped over 200 markets and classified them into various categories and saved as notepad files (.csv)
+
+I am always open to collaborate on projects. Feel free to reach me at tejasvi.sadasivuni@gmail.com
 
 
 - 💞️ I’m looking to collaborate on machine learning projects on Kaggle
