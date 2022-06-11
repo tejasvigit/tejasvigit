@@ -1,10 +1,10 @@
 # 👋 Hi, I’m Tejasvi Sadasivuni (@tejasvigit)
 I have completed
-# Courses: Python Programming, Statistics, Data Analysis & Visualization, Machine Learning, SQL & Analytics
+### Courses: Python Programming, Statistics, Data Analysis & Visualization, Machine Learning, SQL & Analytics
 
-# Highlights: 600+ hours of coursework, 10 coding assignments, 3 projects (Web scraping, EDA, Machine Learning)
+### Highlights: 600+ hours of coursework, 10 coding assignments, 3 projects (Web scraping, EDA, Machine Learning)
 
-# My Projects
+### My Projects
 
 ## Exploratory Data Analysis of 2+ Million Crime Dataset : [Link](https://jovian.ai/tejasvi-sadasivuni/eda-project-tejasvi-sadasivuni#C60)
 
