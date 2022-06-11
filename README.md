@@ -16,7 +16,7 @@ I have completed
 ## Machine Learning - Reducing Commercial Aviation Fatalities [Link](https://jovian.ai/tejasvi-sadasivuni/project-3-machine-learning-reducing-commercial-aviation-fatalities)
 * Cleaned data for training dataset with 4 million rows and test dataset with 18million rows with python (Pandas)
 * Tested multiple algorithms to improve prediction accuracy
-* With an XGB classifier algorithm a multiclass log loss of 0.695 was achieved, putting me at a rankin gof 39 / 178
+* With an XGB classifier algorithm a multiclass log loss of 0.695 was achieved, putting me at a ranking of 39 / 178
 
 ## Web scraping stock prices on Yahoo stock market
 * Utilized Beautifulsoup package of python to draw relevant data from HTML code
