@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @tejasvigit
+- 👋 Hi, I’m Tejasvi Sadasivuni (@tejasvigit)
 - 👀 I’m interested in data science, data analysis and visualization
 - 🌱 I’m currently learning python, sql, tableau, spotfire and machine learning
 - 💞️ I’m looking to collaborate on machine learning projects on Kaggle
